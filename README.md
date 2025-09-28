@@ -14,6 +14,15 @@ This repo consists of two folders: /research
 - The `submission.py` trains the models with the selected parameters and optimizes ensemble parameters for final predictions and to make the final prediction 'submission_final.csv'
 
 
+### Results
+
+Our best submission achieved a **Leaderboard Score of 0.6793**.
+
+The final score is calculated as the average of the **Coefficient of Determination** ($\text{R}^2$) for each target variable:
+
+$$\text{Score} = \frac{\text{R}^2_{\text{Y1}} + \text{R}^2_{\text{Y2}}}{2}$$
+
+
 
 
 
