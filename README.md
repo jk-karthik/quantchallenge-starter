@@ -9,7 +9,11 @@
 This repo consists of two folders: /research 
 ### 1. Research
 
-The `research` folder contains a IPython notebook `analysis.ipynb` that dives into feature analysis and engineering required to the predictions oos and has the setup required to perform the necessary parameter optimziations for the prediction models
+
+- The `research` folder contains a IPython notebook `analysis.ipynb` that dives into feature analysis and engineering required to the predictions oos and has the setup required to perform the necessary parameter optimziations for the prediction models
+- The `submission.py` trains the models with the selected parameters and optimizes ensemble parameters for final predictions and to make the final prediction 'submission_final.csv'
+
+
 
 
 
