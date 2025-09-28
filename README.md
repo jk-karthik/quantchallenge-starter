@@ -16,7 +16,7 @@ This repo consists of two folders: /research
 
 ### Results
 
-Our best submission achieved a **Leaderboard Score of 0.6793**.
+Best submission achieved a **Leaderboard Score of 0.6793**.
 
 The final score is calculated as the average of the **Coefficient of Determination** ($\text{R}^2$) for each target variable:
 
